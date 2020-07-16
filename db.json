@@ -1,8 +1,9 @@
 {
   "posts": [
-    { "id": 1, "title": "Rujhan 1" },
-    { "id": 2, "title": "Rishabh 2" },
-    { "id": 3, "title": "Ketan 3" }
+    { "player": 1, "title": "Rishabh" },
+    { "player": 2, "title": "Rodal" },
+    { "player": 3, "title": "Ketan" },
+    { "player": 4, "title": "Sheersho" }
   ],
   "comments": [
     { "id": 1, "body": "some Pubg", "postId": 1 },
